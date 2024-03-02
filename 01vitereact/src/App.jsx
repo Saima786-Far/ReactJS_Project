@@ -1,4 +1,4 @@
-import Saima from "./saima";
+import Saima from "./Saima";
 
 
 function App() {
